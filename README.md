@@ -139,9 +139,11 @@ Execute the program
 </html>
 
 # OUPUT
-![output](http://svarsha.student.saveetha.in:8000/static/images/output.png?raw*true)
+![output](https://user-images.githubusercontent.com/127709117/232368142-2f72d1d0-ab08-4c21-8f16-2645c09e527d.png)
+
 # htmlvalidator
-![HTML VALIDATOR](http://svarsha.student.saveetha.in:8000/static/images/validation.png?raw*true)
+![validation](https://user-images.githubusercontent.com/127709117/232368190-81bfd9f7-65e9-4c2b-88c9-e3f747f3cf68.png)
+
 
 # RESULT
 the program for creating slot Time table is completed successfully
